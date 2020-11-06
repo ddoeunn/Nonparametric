@@ -1,5 +1,5 @@
 # Nonparametric
-
+2020-2 
 ## 1. Density Estimation and Histogram
 > * density estimation using hist() in r 
 
